@@ -1,0 +1,36 @@
+{
+  "version": "53.0.0",
+  "files": {
+    "bd55be0f741c05a06a79d4c836d27892bb1749b3317ba0121511cf2117c92da6": {
+      "displayName": "AIChatFunction/Code",
+      "source": {
+        "path": "asset.bd55be0f741c05a06a79d4c836d27892bb1749b3317ba0121511cf2117c92da6",
+        "packaging": "zip"
+      },
+      "destinations": {
+        "511974511477-us-east-1-d606cefc": {
+          "bucketName": "cdk-hnb659fds-assets-511974511477-us-east-1",
+          "objectKey": "bd55be0f741c05a06a79d4c836d27892bb1749b3317ba0121511cf2117c92da6.zip",
+          "region": "us-east-1",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::511974511477:role/cdk-hnb659fds-file-publishing-role-511974511477-us-east-1"
+        }
+      }
+    },
+    "9fc49414f3b29b739bb59a6b542375e02b94680dfa2c4e619effd0b7c36342a6": {
+      "displayName": "QuickFitInfraStack Template",
+      "source": {
+        "path": "QuickFitInfraStack.template.json",
+        "packaging": "file"
+      },
+      "destinations": {
+        "511974511477-us-east-1-e4cf808a": {
+          "bucketName": "cdk-hnb659fds-assets-511974511477-us-east-1",
+          "objectKey": "9fc49414f3b29b739bb59a6b542375e02b94680dfa2c4e619effd0b7c36342a6.json",
+          "region": "us-east-1",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::511974511477:role/cdk-hnb659fds-file-publishing-role-511974511477-us-east-1"
+        }
+      }
+    }
+  },
+  "dockerImages": {}
+}

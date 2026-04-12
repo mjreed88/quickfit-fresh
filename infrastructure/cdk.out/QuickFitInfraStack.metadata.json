@@ -1,0 +1,200 @@
+{
+  "/QuickFitInfraStack/UsersTable": [
+    {
+      "type": "aws:cdk:hasPhysicalName",
+      "data": {
+        "Ref": "UsersTable9725E9C8"
+      }
+    }
+  ],
+  "/QuickFitInfraStack/ProfilesTable": [
+    {
+      "type": "aws:cdk:hasPhysicalName",
+      "data": {
+        "Ref": "ProfilesTable3B48B4C6"
+      }
+    }
+  ],
+  "/QuickFitInfraStack/ConversationsTable": [
+    {
+      "type": "aws:cdk:hasPhysicalName",
+      "data": {
+        "Ref": "ConversationsTableCD91EB96"
+      }
+    }
+  ],
+  "/QuickFitInfraStack/APIEndpoint": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "APIEndpoint"
+    }
+  ],
+  "/QuickFitInfraStack/UsersTableName": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "UsersTableName"
+    }
+  ],
+  "/QuickFitInfraStack/ProfilesTableName": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ProfilesTableName"
+    }
+  ],
+  "/QuickFitInfraStack/ConversationsTableName": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ConversationsTableName"
+    }
+  ],
+  "/QuickFitInfraStack/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    }
+  ],
+  "/QuickFitInfraStack/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    }
+  ],
+  "/QuickFitInfraStack/CognitoAuthorizer/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CognitoAuthorizerF3215DBC"
+    }
+  ],
+  "/QuickFitInfraStack/UsersTable/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "UsersTable9725E9C8"
+    }
+  ],
+  "/QuickFitInfraStack/ProfilesTable/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ProfilesTable3B48B4C6"
+    }
+  ],
+  "/QuickFitInfraStack/ConversationsTable/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ConversationsTableCD91EB96"
+    }
+  ],
+  "/QuickFitInfraStack/AIChatFunction/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AIChatFunction3D275131"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPID6C54778"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Account": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIAccount82EBA51A"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Endpoint": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIEndpointA11D1E39"
+    }
+  ],
+  "/QuickFitInfraStack/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    }
+  ],
+  "/QuickFitInfraStack/AIChatFunction/ServiceRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AIChatFunctionServiceRole88C0AA45"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/CloudWatchRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPICloudWatchRole474E14E2"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Deployment/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIDeploymentE66ED237bc8cc6d3d8628c41dde13f473610c550"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/DeploymentStage.prod/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIDeploymentStageprodABC9D1F9"
+    }
+  ],
+  "/QuickFitInfraStack/AIChatFunction/ServiceRole/DefaultPolicy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AIChatFunctionServiceRoleDefaultPolicyAD410E8E"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Default/OPTIONS/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIOPTIONS7C311690"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Default/chat/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIchat94B61729"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Default/chat/OPTIONS/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIchatOPTIONS611C7D81"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Default/chat/GET/ApiPermission.QuickFitInfraStackQuickFitAPI1FE83EEC.GET..chat": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIchatGETApiPermissionQuickFitInfraStackQuickFitAPI1FE83EECGETchat2208EBD6"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Default/chat/GET/ApiPermission.Test.QuickFitInfraStackQuickFitAPI1FE83EEC.GET..chat": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIchatGETApiPermissionTestQuickFitInfraStackQuickFitAPI1FE83EECGETchat96C7D70B"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Default/chat/GET/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIchatGET548B23BF"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Default/chat/POST/ApiPermission.QuickFitInfraStackQuickFitAPI1FE83EEC.POST..chat": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIchatPOSTApiPermissionQuickFitInfraStackQuickFitAPI1FE83EECPOSTchat084AE64C"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Default/chat/POST/ApiPermission.Test.QuickFitInfraStackQuickFitAPI1FE83EEC.POST..chat": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIchatPOSTApiPermissionTestQuickFitInfraStackQuickFitAPI1FE83EECPOSTchat4C0D8CA1"
+    }
+  ],
+  "/QuickFitInfraStack/QuickFitAPI/Default/chat/POST/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuickFitAPIchatPOSTF244008C"
+    }
+  ]
+}

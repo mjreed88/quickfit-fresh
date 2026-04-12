@@ -1,0 +1,41 @@
+export const injuries = [
+  'None',
+  // Joint Pain
+  'Knee Pain',
+  'Shoulder Pain',
+  'Lower Back Pain',
+  'Neck Pain',
+  'Hip Pain',
+  'Ankle Pain',
+  'Wrist Pain',
+  'Elbow Pain',
+  // Chronic Conditions
+  'Arthritis',
+  'Fibromyalgia',
+  'Chronic Pain Syndrome',
+  'Osteoporosis',
+  'Spondylolisthesis',
+  // Injuries
+  'ACL Injury',
+  'MCL Injury',
+  'Meniscus Tear',
+  'Rotator Cuff Injury',
+  'Herniated Disc',
+  'Sciatica',
+  'Bursitis',
+  'Tendinitis',
+  'Plantar Fasciitis',
+  'Achilles Tendinitis',
+  'Shin Splints',
+  // Repetitive Strain
+  'Carpal Tunnel',
+  'Tennis Elbow',
+  'Golfer\'s Elbow',
+  'RSI (Repetitive Strain)',
+  // Other
+  'Scoliosis',
+  'Hyper mobility',
+  'Limited Mobility',
+  'Pregnancy',
+  'Post-Surgery Recovery',
+]
